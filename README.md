@@ -40,6 +40,11 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [login system using django || login system using django with ajax](https://www.youtube.com/watch?v=xeBrdgRRDs4)
+- [Html Generator using django || Text to Html Converter](https://www.youtube.com/watch?v=wwmNEP9I_Xs)
+- [movie recommendation on django || rating based recommendation part-3](https://www.youtube.com/watch?v=OMss5vdDAF0)
+- [Text to Html generator using django || django project](https://www.youtube.com/watch?v=dMfMsf0qCIQ)
+- [[Demo] simple reactjs project || Reactjs](https://www.youtube.com/watch?v=BDPCzf8qb6c)
 <!-- YOUTUBE:END -->
 
 [website]: https://myprojecttech.blogspot.com/
