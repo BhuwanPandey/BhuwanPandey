@@ -20,8 +20,6 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 
 
 <br />
-
-<br />
 <br />
 
 
