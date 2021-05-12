@@ -39,9 +39,9 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📺 Latest YouTube Videos
+<!--  YOUTUBE:START  -->
+<!-- YOUTUBE:END -->
 
 
 
