@@ -38,10 +38,9 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 
 
 ### 📺 Latest YouTube Videos
-<!--  YOUTUBE:START  -->
+
+<!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-
 
 [website]: https://myprojecttech.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw
