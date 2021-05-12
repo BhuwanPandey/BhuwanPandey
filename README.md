@@ -42,6 +42,16 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+➡️ [more videos...](https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw)
+
+
+
+<img align="left" alt="bhuwan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bhuwanpandey&show_icons=true&hide_border=true" />
+
+
+
+
+
 [website]: https://myprojecttech.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw
 [linkedin]:https://www.linkedin.com/in/bhuwan-pandey-38224a1b7/
