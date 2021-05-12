@@ -4,10 +4,10 @@
 <br />
 <br />
 
-Hi, I'm Bhuwan Pandey, a passionate self-taught frontEnd web developer as well as backend developer.
+Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well as Backend developer.
 
 
-- 🌱 I’m currently focusing on Fullstack development.
+- 🌱 I’m currently focusing on something cool.
 - 👯 I’m looking to collaborate with other creator.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Good fact:I am always interested to learn new technology.
@@ -34,6 +34,15 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught frontEnd web developer as well a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
+
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 [website]: https://myprojecttech.blogspot.com/
