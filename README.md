@@ -50,8 +50,8 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 ➡️ [more videos...](https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw)
 
 
-<a href="https://github-readme-stats.codestackr.vercel.app/api?username=bhuwanpandey&show_icons=true&hide_border=true">
-<img align="center" alt="bhuwan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bhuwanpandey&show_icons=true&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=bhuwanpandey&show_icons=true&include_all_commits=true&theme=material-palenight">
+<img align="center" alt="bhuwan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhuwanpandey&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </a>
 
 
