@@ -40,11 +40,11 @@ Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well a
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [chatapp using django || chatapp using django without channel](https://www.youtube.com/watch?v=bZToPDYHX9U)
 - [weather app using reactjs || simple reactjs project](https://www.youtube.com/watch?v=ZHxGsJTQYC0)
 - [create analog and digital  clock using reactjs](https://www.youtube.com/watch?v=3Z5aTcn71_8)
 - [Create Calculator using reactjs || simple reactjs project](https://www.youtube.com/watch?v=cIzDVeWBGOA)
 - [login system using django || login system using django with ajax](https://www.youtube.com/watch?v=xeBrdgRRDs4)
-- [Html Generator using django || Text to Html Converter](https://www.youtube.com/watch?v=wwmNEP9I_Xs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw)
