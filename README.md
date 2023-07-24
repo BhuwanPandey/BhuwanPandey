@@ -7,9 +7,9 @@
 Hi, I'm Bhuwan Pandey, a passionate self-taught Frontend web developer as well as Backend developer.
 
 
-- 🌱 I’m currently focusing on something cool.
+- 🌱 I’m currently focusing on something cool and involving on realworld project.
 - 👯 I’m looking to collaborate with other creator.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Good fact:I am always interested to learn new technology.
 
 ### Connect with me:
